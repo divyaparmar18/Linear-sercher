@@ -7,19 +7,3 @@ java LinearSearcher 7 > actual
 diff actual testNotInList
 java LinearSearcher 0 > actual
 diff actual testNotInList
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
