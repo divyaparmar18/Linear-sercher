@@ -12,7 +12,6 @@ public class LinearSearcher {
         for (int i = 0; i < serachNumIn.length; i++) {
             if(serachNumIn[i] == number){
                 System.out.println("Number present in the list and it is at index " + i);
-
                 return true;
             }
         }
